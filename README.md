@@ -1,20 +1,28 @@
 <!-- writeme -->
+Drutopia Related Content
+========================
+
 Provides related content on node pages generated via similar terms.
 
-Package: drupal/drutopia_related_content
+ * https://gitlab.com/drutopia/drutopia_related_content
+ * Documentation: https://docs.drutopia.org/
+ * Issues: https://gitlab.com/drutopia/drutopia_related_content/issues
+ * Source code: https://gitlab.com/drutopia/drutopia_related_content/tree/8.x-1.x
+ * Package name: drupal/drutopia_related_content
+ * Git branch: add-readme
 
-Version: add-readme
 
-Tags: 
+### Requirements
 
-Project URL: https://gitlab.com/drutopia/drutopia_related_content
+ * drupal/similarterms ^1.3
 
-Copyright (GPL-2.0+) 2018, License: <a href=''></a>
 
-Dependencies
- &#8226; drupal/block_visibility_groups ^1.3 &#8226; drupal/drutopia_core ^1.0-alpha5 &#8226; drupal/similarterms ^1.3
+### License
+
+GPL-2.0+
+
 <!-- endwriteme -->
 
-## See also
+### About
 
-Similar by Terms
+This [Drutopia](https://drutopia.org/) feature providing related content functionality via the [Similar By Terms](https://www.drupal.org/project/similarterms) module.
