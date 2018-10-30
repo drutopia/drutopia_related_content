@@ -25,4 +25,4 @@ GPL-2.0+
 
 ### About
 
-This [Drutopia](https://drutopia.org/) feature providing related content functionality via the [Similar By Terms](https://www.drupal.org/project/similarterms) module.
+This [Drutopia](https://drutopia.org/) feature provides related content functionality via the [Similar By Terms](https://www.drupal.org/project/similarterms) module.
