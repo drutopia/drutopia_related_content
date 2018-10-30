@@ -5,11 +5,9 @@ Drutopia Related Content
 Provides related content on node pages generated via similar terms.
 
  * https://gitlab.com/drutopia/drutopia_related_content
- * Documentation: https://docs.drutopia.org/
  * Issues: https://gitlab.com/drutopia/drutopia_related_content/issues
  * Source code: https://gitlab.com/drutopia/drutopia_related_content/tree/8.x-1.x
  * Package name: drupal/drutopia_related_content
- * Git branch: add-readme
 
 
 ### Requirements
