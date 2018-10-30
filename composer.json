@@ -1,6 +1,7 @@
 {
     "name": "drupal/drutopia_related_content",
     "description": "Provides related content on node pages generated via similar terms.",
+    "keywords": ["similar", "relations", "content", "drutopia"],
     "type": "drupal-module",
     "license": "GPL-2.0+",
     "homepage": "https://gitlab.com/drutopia/drutopia_related_content",
