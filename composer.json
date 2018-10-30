@@ -7,8 +7,7 @@
     "minimum-stability": "dev",
     "support": {
         "issues": "https://gitlab.com/drutopia/drutopia_related_content/issues",
-        "source": "https://gitlab.com/drutopia/drutopia_related_content/tree/8.x-1.x",
-        "docs": "https://docs.drutopia.org/"
+        "source": "https://gitlab.com/drutopia/drutopia_related_content/tree/8.x-1.x"
     },
     "require": {
         "drupal/block_visibility_groups": "^1.3",
