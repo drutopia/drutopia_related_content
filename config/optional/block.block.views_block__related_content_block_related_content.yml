@@ -5,6 +5,7 @@ dependencies:
     - views.view.related_content
   module:
     - block_visibility_groups
+    - ctools
     - views
   theme:
     - octavia
@@ -28,3 +29,11 @@ visibility:
     negate: false
     block_visibility_group: ''
     context_mapping: {  }
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    bundles:
+      landing_page: landing_page
+      people: people
+    negate: true
+    context_mapping:
+      node: '@node.node_route_context:node'
