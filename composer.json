@@ -1,6 +1,6 @@
 {
     "name": "drupal/drutopia_related_content",
-    "description": "Provides related content on node pages generated via similar terms.",
+    "description": "Shows content (articles, actions, etc.) related to the current page's content based on the taxonomy terms held in common.",
     "keywords": ["similar", "relations", "content", "drutopia"],
     "type": "drupal-module",
     "license": "GPL-2.0+",
