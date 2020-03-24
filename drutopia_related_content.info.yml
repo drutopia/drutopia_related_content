@@ -1,5 +1,5 @@
 name: 'Drutopia Related Content'
-description: "Shows content (articles, actions, etc.) related to the current page's content based on the taxonomy terms held in common."
+description: 'Shows content (articles, actions, etc.) related to the current node based on the taxonomy terms held in common.'
 type: module
 core: 8.x
 dependencies:
